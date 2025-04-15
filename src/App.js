@@ -67,7 +67,7 @@ const videos = [
    const [toggle, setToggle] = useState();
  
    // Set the default video when the component mounts
-   useEffect(() => {
+   React.useEffect(() => {
      const defaultVideo = videos.find(video => video.id === 1);
      setCurrentVideo(defaultVideo.HDSUB1);
      setSelectedServer("HDSUB1");
