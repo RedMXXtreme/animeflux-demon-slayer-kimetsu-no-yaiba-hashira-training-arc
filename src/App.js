@@ -296,7 +296,7 @@ const videos = [
                }`}
                onClick={() => {
                  setSelectedServer("Multi");
-                 setCurrentVideo(video.src);
+                 setCurrentVideo(video.MULTI);
                }}
              >
                Multi
