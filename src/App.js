@@ -190,12 +190,12 @@ const videos = [
          {/* Sidebar */}
          <div className="bg-gray-800 p-4 w-full md:w-1/3 lg:w-1/4 rounded-lg shadow-md">
            <img
-             src="https://static1.animekai.to/d3/i/e/9c/67664a00ed86e.jpg"
+             src="https://static1.animekai.to/d1/i/d/30/67664a1707993.jpg"
              alt="Anime poster"
              className="w-full rounded-lg"
              style={{ height: "191px", width:"min-content",objectFit: "cover" }}
            />
-           <h2 className="text-2xl font-bold mt-2 text-center" style={{ fontSize: "10px" }}>The devastation of the Mugen Train incident still weighs heavily on the members of the Demon Slayer Corps. Despite being given time to recover, life must go on, as the wicked never sleep: a vicious demon is terrorizing the alluring women of the Yoshiwara Entertainment District. The Sound Hashira, Tengen Uzui, and his three wives are on the case. However, when he soon loses contact with his spouses, Tengen fears the worst and enlists the help of Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira to infiltrate the district's most prominent houses and locate the depraved Upper Rank Demon.</h2>
+           <h2 className="text-2xl font-bold mt-2 text-center" style={{ fontSize: "10px" }}>After a series of mighty clashes with Upper Rank Demons, the Ubuyashiki clan prepares for one last battle with the hellish forces of Muzan Kibutsuji. In order to finally defeat the Demon leader once and for all, the clan devises a training camp for the Demon Slayer Corps, one led by the remaining Hashira—the most elite warriors in the organization.</h2>
            <h2 className="text-xl font-bold mb-4">List of episodes:</h2>
            <div className="grid grid-cols-4 gap-2">
            {videos.map((video) => (
@@ -220,7 +220,7 @@ const videos = [
                className="absolute top-0 left-0 w-full h-full rounded-lg"
                allow="autoplay" 
                allowFullScreen
-               style={{ backgroundImage: "url('https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/demon-slayer-character-guide.jpg')", backgroundSize: "cover" }}
+               style={{ backgroundImage: "url('https://otakunoir.com/wp-content/uploads/2024/03/Demon-Slayer-Hashira-Training-Arc.jpeg')", backgroundSize: "cover" }}
              ></iframe>
            </div>
  
